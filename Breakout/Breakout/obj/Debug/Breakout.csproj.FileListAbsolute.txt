@@ -1,0 +1,15 @@
+c:\users\ivann\source\repos\Breakout\Breakout\obj\Debug\Breakout.csprojResolveAssemblyReference.cache
+c:\users\ivann\source\repos\Breakout\Breakout\obj\Debug\MainWindow.g.cs
+c:\users\ivann\source\repos\Breakout\Breakout\obj\Debug\App.g.cs
+c:\users\ivann\source\repos\Breakout\Breakout\obj\Debug\Breakout_MarkupCompile.cache
+c:\users\ivann\source\repos\Breakout\Breakout\obj\Debug\Breakout_MarkupCompile.lref
+c:\users\ivann\source\repos\Breakout\Breakout\bin\Debug\Breakout.exe.config
+c:\users\ivann\source\repos\Breakout\Breakout\bin\Debug\Breakout.exe
+c:\users\ivann\source\repos\Breakout\Breakout\bin\Debug\Breakout.pdb
+c:\users\ivann\source\repos\Breakout\Breakout\obj\Debug\MainWindow.baml
+c:\users\ivann\source\repos\Breakout\Breakout\obj\Debug\Breakout.g.resources
+c:\users\ivann\source\repos\Breakout\Breakout\obj\Debug\Breakout.Properties.Resources.resources
+c:\users\ivann\source\repos\Breakout\Breakout\obj\Debug\Breakout.csproj.GenerateResource.Cache
+c:\users\ivann\source\repos\Breakout\Breakout\obj\Debug\Breakout.csproj.CoreCompileInputs.cache
+c:\users\ivann\source\repos\Breakout\Breakout\obj\Debug\Breakout.exe
+c:\users\ivann\source\repos\Breakout\Breakout\obj\Debug\Breakout.pdb

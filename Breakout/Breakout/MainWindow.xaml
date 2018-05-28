@@ -1,0 +1,16 @@
+﻿<Window x:Class="Breakout.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Breakout"
+        mc:Ignorable="d"
+        Title="Breakout" MouseMove="Window_MouseMove" Height="525" Width="650" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Background="Gray">
+    <Grid>
+        <Canvas HorizontalAlignment="Center" VerticalAlignment="Center" x:Name="GameCanvas" Height="475" Width="600" Background="Black">
+            <Ellipse x:Name="GameBall" Fill="Red" Canvas.Top="440" Canvas.Left="300" Height="20" Width="20"></Ellipse>
+            <Rectangle Name="GamePaddle" Height="15" Width="100" RadiusX="20" RadiusY="20" Fill="DarkRed" Canvas.Top="450" Canvas.Left="250"></Rectangle>
+            <Button x:Name="StartGameBtn" Content="Start Game" Canvas.Left="200" Canvas.Top="200" Height="100" Width="200" Click="StartGame" FontSize="24"/>
+        </Canvas>
+    </Grid>
+</Window>
